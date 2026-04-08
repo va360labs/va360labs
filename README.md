@@ -1,12 +1,14 @@
-<!-- VA360 LABS S.L. — GitHub Profile README -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=C9A227&center=true&vCenter=true&width=700&lines=Automatización+%26+Inteligencia+Artificial;n8n+Ambassador+en+España+🇪🇸;+15.000+profesionales+formados" alt="Typing SVG" />
+# VA360 LABS S.L.
 
-<br/>
+### Automatización e Inteligencia Artificial
 
-**VA360 LABS S.L.** · Fundada por [Valentín Ayesa](https://www.linkedin.com/in/valentinayesa/) · Arcos de la Frontera, Cádiz 🌅
+![n8n Ambassador](https://img.shields.io/badge/n8n_Ambassador-España_🇪🇸-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Profesionales](https://img.shields.io/badge/+15.000-Profesionales_Formados-C9A227?style=for-the-badge)
+![Años](https://img.shields.io/badge/14%2B_años-en_Automatización-1A1A2E?style=for-the-badge)
+
+**Fundada por [Valentín Ayesa](https://www.linkedin.com/in/valentinayesa/) · Arcos de la Frontera, Cádiz 🌅**
 
 </div>
 
@@ -55,7 +57,7 @@ Somos el estudio de automatización e IA detrás de tres productos que están tr
 [![YouTube](https://img.shields.io/badge/YouTube-VA360_Valen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@va360-valen)
 [![Instagram](https://img.shields.io/badge/Instagram-@valentin__ayesa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valentin_ayesa/)
 [![Web](https://img.shields.io/badge/Web-va360.pro-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white)](https://va360.pro)
-[![Academy](https://img.shields.io/badge/Academy-va360.academy-1A1A2E?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://va360.academy)
+[![Academy](https://img.shields.io/badge/Academy-va360.academy-1A1A2E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://va360.academy)
 
 </div>
 
